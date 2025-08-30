@@ -1,16 +1,16 @@
-# Hi there, I'm [Eden]! 👋
+# Hi there, I'm Eden! 👋
 
 ![Banner Image](https://drive.google.com/file/d/1BxIaHevM6Qm2WMERRz-4Y2O2h_O8Cbra/view?usp=sharing)
 
 ## About Me 🚀
 
-I'm a passionate **[UX/UI Designer and Front-End Developer]** with experience in **[Figma, React and Tailwind CSS]**. I love being creative, designing user friendly interfaces, improving user experiences, implementing my designs through code, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **UX/UI Designer and Front-End Developer** with experience in **Figma, React and Tailwind CSS**. I love being creative, designing user friendly interfaces, improving user experiences, implementing my designs through code, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Back-End Development]**
-- 🔭 Working on: **[Out-Fit Picker, Alikohu.com]**
-- 🌍 Languages: **[Javascript, Python, C++, HTML, CSS]**
-- 📫 How to reach me: **[edengebeta210@gmail.com]**
-- ⚡ Fun fact: **[I'm both a creative designer and great front-end developer]**
+- 🌱 Currently learning: **Back-End Development**
+- 🔭 Working on: **Out-Fit Picker, Alikohu.com**
+- 🌍 Languages: **Javascript, Python, C++, HTML, CSS**
+- 📫 How to reach me: **edengebeta210@gmail.com**
+- ⚡ Fun fact: **I'm both a creative designer and great front-end developer**
 
 ## My Skills 🧠
 
@@ -24,7 +24,7 @@ I'm a passionate **[UX/UI Designer and Front-End Developer]** with experience in
 
 ## Featured Projects 💻
 
-### [Project 1 Title](alikohub.com)
+### AlikoHub(alikohub.com)
 
 ![Project 1 Screenshot](https://drive.google.com/file/d/1_2_PDGrmkLA-j59vqo2OWCuC_tDCy-qG/view?usp=drive_link)
 
