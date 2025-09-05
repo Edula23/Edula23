@@ -23,13 +23,11 @@ I'm a passionate **UX/UI Designer and Front-End Developer** with experience in *
 
 ### AlikoHub(alikohub.com)
 
-![Project 1 Screenshot](https://drive.google.com/file/d/1_2_PDGrmkLA-j59vqo2OWCuC_tDCy-qG/view?usp=drive_link)
 
 **[AlikoHub]** is a **[Digital Platform]** built with **[React and Tailwind]**. This project demonstrates my ability to **[design user friendly interfaces and implement them through code]**. You can check out the repository [here](https://github.com/nattisam/alikohub).
 
 ### [Outfit-Picker](https://github.com/Edula23/Outfit-Picker)
 
-![Project 2 Screenshot](https://drive.google.com/file/d/1TJZ0ohJNr7SWtsa8pOQpUp4xth17mQsM/view?usp=drive_link)
 
 **[Outfit-Picker]** is a **[project I made to match outfits]** built with **[javascript, html and css]**. This project showcases my skills in **[desgning great hero sections and implementing them through code]**. You can check out the repository [here](https://github.com/Edula23/Outfit-Picker).
 
