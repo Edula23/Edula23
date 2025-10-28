@@ -21,7 +21,7 @@ I'm a passionate **UX/UI Designer and Front-End Developer** with experience in *
 
 ## Featured Projects 💻
 
-### [AlikoHub](https://github.com/nattisam/alikohub/)
+### AlikoHub(https://github.com/nattisam/alikohub/)
 
 
 **[AlikoHub]** is a **[Digital Platform]** built with **[React and Tailwind]**. This project demonstrates my ability to **[design user friendly interfaces and implement them through code]**. You can check out the repository [here](https://github.com/nattisam/alikohub).
