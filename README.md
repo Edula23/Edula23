@@ -33,7 +33,7 @@ I'm a passionate **UX/UI Designer and Front-End Developer** with experience in *
 
 ## Get in Touch 📬
 
-*- **Personal Website / Blog**((https://www.edendesign.dev/))*
+- **Personal Website / Blog**((https://www.edendesign.dev/))*
 - **Email**(edengebeta210@gmail.com)
 - **LinkedIn**(https://www.linkedin.com/in/eden-alemayehu-886991294)
 - **Twitter**((https://x.com/edenAlemayehuu))
