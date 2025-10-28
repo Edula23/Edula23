@@ -24,18 +24,18 @@ I'm a passionate **UX/UI Designer and Front-End Developer** with experience in *
 ### AlikoHub(https://github.com/nattisam/alikohub/)
 
 
-**[AlikoHub]** is a **[Digital Platform]** built with **[React and Tailwind]**. This project demonstrates my ability to **[design user friendly interfaces and implement them through code]**. You can check out the repository [here](https://github.com/nattisam/alikohub).
+**AlikoHub** is a **[Digital Platform]** built with **[React and Tailwind]**. This project demonstrates my ability to **[design user friendly interfaces and implement them through code]**. You can check out the repository [here](https://github.com/nattisam/alikohub).
 
 ### [Outfit-Picker](https://github.com/Edula23/Outfit-Picker)
 
 
-**[Outfit-Picker]** is a **[project I made to match outfits]** built with **[javascript, html and css]**. This project showcases my skills in **[desgning great hero sections and implementing them through code]**. You can check out the repository [here](https://github.com/Edula23/Outfit-Picker).
+**Outfit-Picker** is a **[project I made to match outfits]** built with **[javascript, html and css]**. This project showcases my skills in **[manipulating the DOM, desgning great hero sections and implementing them through code]**. You can check out the repository [here](https://github.com/Edula23/Outfit-Picker).
 
 ## Get in Touch 📬
 
-*- **[Personal Website / Blog]**(edendesign.dev)*
-- **[Email]**(edengebeta210@gmail.com)
-- **[LinkedIn]**(https://www.linkedin.com/in/eden-alemayehu-886991294)
-- **[Twitter]**(your_twitter_profile_link)
+*- **Personal Website / Blog**((https://www.edendesign.dev/))*
+- **Email**(edengebeta210@gmail.com)
+- **LinkedIn**(https://www.linkedin.com/in/eden-alemayehu-886991294)
+- **Twitter**((https://x.com/edenAlemayehuu))
 
 
