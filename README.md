@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **UX/UI Designer and Front-End Developer** with experience in **Figma, React and Tailwind CSS**. I love being creative, designing user friendly interfaces, improving user experiences, implementing my designs through code, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **UX/UI Designer and Front-End Developer** with experience in **Figma, React, TypeScript and Tailwind CSS**. I love being creative, designing user friendly interfaces, improving user experiences, implementing my designs through code, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Back-End Development**
 - 🔭 Working on: **Out-Fit Picker, Alikohu.com**
