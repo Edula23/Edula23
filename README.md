@@ -21,10 +21,10 @@ I'm a passionate **UX/UI Designer and Front-End Developer** with experience in *
 
 ## Featured Projects 💻
 
-### [Outfit-Picker](https://github.com/Edula23/Outfit-Picker)
+### [CLoset-Match](https://github.com/Edula23/Outfit-Picker)
 
 
-**Outfit-Picker** is a **project I made to match outfits** built with **javascript, html and css**. This project showcases my skills in **manipulating the DOM, desgning great hero sections and implementing them through code**. You can check out the repository [here](https://github.com/Edula23/Outfit-Picker).
+**Closet-Match** is a **project I made to match outfits** built with **javascript, html and css**. This project showcases my skills in **manipulating the DOM, desgning great hero sections and implementing them through code**. You can check out the repository [here](https://github.com/Edula23/Outfit-Picker).
 
 ## Get in Touch 📬
 
