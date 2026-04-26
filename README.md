@@ -9,7 +9,7 @@ I design clean, user-friendly interfaces and build responsive web experiences. C
 ## About me
 
 - 🌱 Currently learning: **Back-End Development**
-- 🔭 Working on: **Closet-Match (Outfit Picker)** and **Alikohu.com**
+- 🔭 Working on: **Closet-Match (Outfit Picker)** 
 - 🌍 Languages/Tech: **JavaScript, TypeScript, Python, C++, HTML, CSS**
 - 📫 Reach me: **edengebeta210@gmail.com**
 - ⚡ Fun fact: **I’m both a creative designer and a front-end developer**
