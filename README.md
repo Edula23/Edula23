@@ -1,36 +1,48 @@
-# Hi there, I'm Eden! 👋
+# Hi, I'm Eden Gebeta 👋
 
-## About Me 🚀
+**UX/UI Designer • Front-End Developer**
 
-I'm a passionate **UX/UI Designer and Front-End Developer** with experience in **Figma, React, TypeScript and Tailwind CSS**. I love being creative, designing user friendly interfaces, improving user experiences, implementing my designs through code, and collaborating with diverse teams to create innovative solutions.
+I design clean, user-friendly interfaces and build responsive web experiences. Currently improving my back-end skills while shipping personal projects.
+
+---
+
+## About me
 
 - 🌱 Currently learning: **Back-End Development**
-- 🔭 Working on: **Out-Fit Picker, Alikohu.com**
-- 🌍 Languages: **Javascript, Python, C++, HTML, CSS**
-- 📫 How to reach me: **edengebeta210@gmail.com**
-- ⚡ Fun fact: **I'm both a creative designer and great front-end developer**
+- 🔭 Working on: **Closet-Match (Outfit Picker)** and **Alikohu.com**
+- 🌍 Languages/Tech: **JavaScript, TypeScript, Python, C++, HTML, CSS**
+- 📫 Reach me: **edengebeta210@gmail.com**
+- ⚡ Fun fact: **I’m both a creative designer and a front-end developer**
 
-## My Skills 🧠
+---
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## Skills
 
+### Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
-## Featured Projects 💻
+### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### [CLoset-Match](https://github.com/Edula23/Outfit-Picker)
+---
 
+## Featured project
 
-**Closet-Match** is a **project I made to match outfits** built with **javascript, html and css**. This project showcases my skills in **manipulating the DOM, desgning great hero sections and implementing them through code**. You can check out the repository [here](https://github.com/Edula23/Outfit-Picker).
+### Closet-Match (Outfit Picker)
+Repo: https://github.com/Edula23/Outfit-Picker
 
-## Get in Touch 📬
+A project that helps match outfits, built with **HTML, CSS, and JavaScript**. It highlights my skills in **DOM manipulation**, **layout design**, and **building polished landing sections**.
 
-- **Personal Website / Blog**((https://www.edendesign.dev/))*
-- **Email**(edengebeta210@gmail.com)
-- **LinkedIn**(https://www.linkedin.com/in/eden-alemayehu-886991294)
-- **Twitter**((https://x.com/edenAlemayehuu))
+---
 
+## Get in touch
 
+- 🌐 Portfolio: https://www.edendesign.dev/
+- ✉️ Email: mailto:edengebeta210@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/eden-alemayehu-886991294
+- 𝕏 Twitter: https://x.com/edenAlemayehuu
