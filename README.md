@@ -1,7 +1,7 @@
 ## Hi, I'm Eden Alemayehu 👋
 
 # 💫 About Me:
-I'm a software Engineering student at Addis Ababa Science and Technology Univeristy.<br>I'm currently working on web development projects.<br>I'm currently learning AI Engineering.<br>Looking to collaborate on web development projects.
+A Software Engineer working on web development projects.<br>I'm currently learning AI Engineering.<br>Looking to collaborate on web development projects.
 
 
 # 💻 Tech Stack:
